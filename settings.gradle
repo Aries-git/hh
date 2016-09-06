@@ -1,0 +1,1 @@
+include ':app', ':news', ':app1607'
